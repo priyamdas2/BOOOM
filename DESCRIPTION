@@ -1,0 +1,11 @@
+Package: BOOOM
+Type: Package
+Title: Will be released soon!
+Version: 1.0
+Date: 2019-09-26
+Author: Priyam Das
+Maintainer: Priyam Das <pdas@ncsu.edu>
+Description: BOOOM
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.2)
+LinkingTo: Rcpp
